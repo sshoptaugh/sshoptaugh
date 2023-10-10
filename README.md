@@ -5,7 +5,7 @@
 - 📫 How to reach me:
      Email: sshoptaugh1991@gmail.com
      Skype: Shawn Shoptaugh
-     LinkedIn: linkedin.com/in/shawnshoptaugh
+     LinkedIn: linkedin.com/in/shawn-shoptaugh
 
 <!---
 sshoptaugh/sshoptaugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
